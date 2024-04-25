@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/showee.iml" filepath="$PROJECT_DIR$/.idea/showee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/docsify-index.iml" filepath="$PROJECT_DIR$/.idea/docsify-index.iml" />
     </modules>
   </component>
 </project>
